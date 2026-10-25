@@ -19,7 +19,7 @@
 ### 01. ABOUT ME // 自己紹介
 
 ```yaml
-NAME: Sans
+NAME: Sans（Anran)
 ROLE: Computer Science Student
 STATUS: Learning & Exploring
 
